@@ -56,11 +56,11 @@ html[data-theme="dark"] {
 
 /* Navicon styles for dark theme */
 .navicon {
-  background-color: $darker-primary-color;
+  background-color: $primary-color;
   
   &::before,
   &::after {
-    background-color: $darker-primary-color;
+    background-color: $primary-color;
   }
   
   &:hover,
