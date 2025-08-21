@@ -56,20 +56,20 @@ html[data-theme="dark"] {
 
 /* Navicon styles for dark theme */
 .navicon {
-  background-color: $primary-color;
+  background-color: #fff !important;
   
   &::before,
   &::after {
-    background-color: $primary-color;
+    background-color: #fff !important;
   }
   
   &:hover,
   &:focus {
-    background-color: $primary-color;
+    background-color: #f0f0f0 !important;
     
     &::before,
     &::after {
-      background-color: $primary-color;
+      background-color: #f0f0f0 !important;
     }
   }
 }
