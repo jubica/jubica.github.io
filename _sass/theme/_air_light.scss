@@ -53,3 +53,36 @@ $sidebar-screen-min-width   : 1024px;
     --global-text-color-light           : #{$light-primary-color};
     --global-thead-color                : #{$background-lighter};
 }
+
+/* Navicon styles for light theme */
+.navicon {
+  background-color: $darker-primary-color !important;
+  
+  &::before,
+  &::after {
+    background-color: $darker-primary-color !important;
+  }
+  
+  &:hover,
+  &:focus {
+    background-color: $primary-color !important;
+    
+    &::before,
+    &::after {
+      background-color: $primary-color !important;
+    }
+  }
+}
+
+/* Close state for navicon */
+.close .navicon {
+  background: transparent !important;
+  
+  &::before {
+    transform: translateY(0) rotate(45deg) !important;
+  }
+  
+  &::after {
+    transform: translateY(0) rotate(-45deg) !important;
+  }
+}
