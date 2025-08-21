@@ -5,8 +5,8 @@
 /* Color codes used for the theme */
 $primary-color              : #FFD200;
 $dark-primary-color         : $primary-color;
-$darker-primary-color       : mix(#000, $primary-color, 40%);
-$light-primary-color        : mix(#000, $primary-color, 20%);
+$darker-primary-color       : mix(#000, $primary-color, 80%);
+$light-primary-color        : $primary-color;
 
 $background                 : #252a34;
 $background-light           : mix(#fff, $background, 20%);
