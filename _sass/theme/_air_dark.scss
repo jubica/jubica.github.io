@@ -37,6 +37,7 @@ $sidebar-screen-min-width   : 1024px;
 /* Dark theme for the site */
 html[data-theme="dark"] {
     --global-base-color                 : #{$background};
+    --global-masthead-color             : #{$darker-primary-color};
     --global-bg-color                   : #{$background};
     --global-footer-bg-color            : #{$footer};
     --global-border-color               : #{$light-primary-color};
@@ -52,37 +53,4 @@ html[data-theme="dark"] {
     --global-text-color                 : #{$text};
     --global-text-color-light           : #{$light-primary-color};
     --global-thead-color                : #{$background-lighter};
-}
-
-/* Navicon styles for dark theme */
-.navicon {
-  background-color: #fff !important;
-  
-  &::before,
-  &::after {
-    background-color: #fff !important;
-  }
-  
-  &:hover,
-  &:focus {
-    background-color: #f0f0f0 !important;
-    
-    &::before,
-    &::after {
-      background-color: #f0f0f0 !important;
-    }
-  }
-}
-
-/* Close state for navicon */
-.close .navicon {
-  background: transparent;
-  
-  &::before {
-    transform: translateY(0) rotate(45deg);
-  }
-  
-  &::after {
-    transform: translateY(0) rotate(-45deg);
-  }
 }
