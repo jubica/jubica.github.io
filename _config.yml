@@ -8,8 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-theme                    : "jekyll-theme-cayman"
-# site_theme               : "air" # Currently available options are "default", "air"
+site_theme               : "air" # Currently available options are "default", "air"
 title                    : "Materials Scientist"
 title_separator          : "|"
 name                     : &name "Jubica"
