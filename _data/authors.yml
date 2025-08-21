@@ -1,13 +1,11 @@
 # Authors
 
 Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
+  name        : "Jubica"
+  uri         : "https://jubica.github.io/"
+  email       : "jubica.jubica@ugent.be"
+  bio         : "I am a doctoral researcher at Ghent University, specializing in the impact of hydrogen on pipeline steels to ensure the safety of hydrogen infrastructure."
   avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
 
 Name2 Name2:
   name        : "Name2 Name2"
