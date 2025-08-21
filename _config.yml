@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Jubica (Materials Scientist)"
+title                    : "Materials Scientist"
 title_separator          : "-"
 name                     : &name "Jubica"
 description              : &description "personal description"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Jubica"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I am a doctoral researcher at Ghent University, specializing in the impact of hydrogen on pipeline steels to ensure the safety of hydrogen infrastructure.Working in collaboration with Fluxys and the Soete Laboratory, I focus on developing advanced screening methodologies and gaseous charging techniques."
   location         : "Ghent, Belgium"
   employer         : "Ghent University"
   uri              : # URL
@@ -106,7 +106,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "master" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -121,7 +121,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
