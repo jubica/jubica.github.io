@@ -4,9 +4,10 @@
 
 /* Color codes used for the theme */
 $primary-color              : #1E64C8;
+$secondary-color            : #FFD200;
 $dark-primary-color         : mix(#000, $primary-color, 40%);
 $darker-primary-color       : mix(#000, $primary-color, 60%);
-$light-primary-color        : mix(#000, $primary-color, 50%);
+$light-primary-color        : mix(#000, $secondary-color, 50%);
 
 $background                 : #eeeeee;
 $background-light           : mix(#fff, $background, 20%);
@@ -15,7 +16,7 @@ $text                       : #222831;
 $link                       : #1E64C8;
 $link-dark                  : mix(#000, $link, 25%);
 $link-light                 : mix(#8bbee8, $link, 25%);
-$footer                     : #FFD200;
+$footer                     : $primary-color;
 
 /* Color codes used for the site */
 $danger-color               : #ee5f5b;
@@ -31,7 +32,7 @@ $global-transition          : all 0.2s ease-in-out;
 $masthead-height            : 70px;
 $navicon-width              : 28px;
 $navicon-height             : 4px;
-$navicon-color              : $dark-primary-color;
+$navicon-color              : $darker-primary-color;
 $sidebar-link-max-width     : 250px;
 $sidebar-screen-min-width   : 1024px;
 
