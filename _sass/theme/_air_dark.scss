@@ -55,35 +55,12 @@ html[data-theme="dark"] {
 }
 
 /* Navicon styles for dark theme */
-.masthead .navicon,
-.masthead .navicon::before,
-.masthead .navicon::after {
+.navicon {
   background-color: #fff !important;
-}
-
-.masthead .navicon {
-  position: relative;
-  width: $navicon-width;
-  height: $navicon-height;
-  margin: auto;
-  transition: background-color 0.3s ease-in-out;
   
   &::before,
   &::after {
-    content: "";
-    position: absolute;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    transition: transform 0.3s ease-in-out, background-color 0.3s ease-in-out;
-  }
-  
-  &::before {
-    transform: translateY(-8px);
-  }
-  
-  &::after {
-    transform: translateY(8px);
+    background-color: #fff !important;
   }
   
   &:hover,
