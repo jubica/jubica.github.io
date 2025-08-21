@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-👋 Hi! I'm Jubica, a doctoral researcher at Ghent University, specializing in the **impact of hydrogen on pipeline steels** to ensure the safety and reliability of hydrogen infrastructure. My work is a collaboration with Fluxys (a Belgian pipeline network operator) and the Soete Laboratory.
+👋 Hi! I'm Jubica, a doctoral researcher at Ghent University, specializing in the **impact of hydrogen on pipeline steels** to ensure the safety and reliability of hydrogen infrastructure. My work is a collaboration with [Fluxys](https://www.fluxys.com/) (a Belgian pipeline network operator) and the [Soete Laboratory](https://www.ugent.be/ea/emsme/en/research/soete).
 
 Research Focus and Key Themes
 ======
@@ -28,7 +28,7 @@ My expertise covers a range of advanced methods for materials and hydrogen chara
 Academic Contributions and Recognition
 ======
 
-Beyond my core research, I have guided one Master’s thesis and several Bachelor’s thesis students. I have also assisted and collaborated with fellow PhD researchers and disseminated my findings through conferences and seminars to both industry and academia. My work was recognized as a finalist for the **EGATEC Young Researchers’ Awards 2024** and selected as one of 27 outstanding papers for presentation at the **Energy Pipeline Innovation Conference (EPIC25)**.
+Beyond my core research, I have guided one Master’s thesis and several Bachelor’s thesis students. I have also assisted and collaborated with fellow PhD researchers and disseminated my findings through conferences and seminars to both industry and academia. My work was recognized as a finalist for the [**EGATEC Young Researchers’ Awards 2024**](https://www.gerg.eu/the-2024-young-researchers-awards/) and selected as one of 27 outstanding papers for presentation at the [**Energy Pipeline Innovation Conference (EPIC25)**](https://epic25.eu/en/EPIC25).
 
 Detailed Contributions
 ======
