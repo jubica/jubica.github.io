@@ -5,7 +5,7 @@
 /* Color codes used for the theme */
 $primary-color              : #1E64C8;
 $dark-primary-color         : mix(#000, $primary-color, 40%);
-$darker-primary-color       : mix(#000, $primary-color, 60%);
+$darker-primary-color       : mix(#000, $primary-color, 20%);
 $light-primary-color        : $primary-color;
 
 $background                 : #eeeeee;
@@ -56,33 +56,33 @@ $sidebar-screen-min-width   : 1024px;
 
 /* Navicon styles for light theme */
 .navicon {
-  background-color: $darker-primary-color !important;
+  background-color: $darker-primary-color;
   
   &::before,
   &::after {
-    background-color: $darker-primary-color !important;
+    background-color: $darker-primary-color;
   }
   
   &:hover,
   &:focus {
-    background-color: $primary-color !important;
+    background-color: $primary-color;
     
     &::before,
     &::after {
-      background-color: $primary-color !important;
+      background-color: $primary-color;
     }
   }
 }
 
 /* Close state for navicon */
 .close .navicon {
-  background: transparent !important;
+  background: transparent;
   
   &::before {
-    transform: translateY(0) rotate(45deg) !important;
+    transform: translateY(0) rotate(45deg);
   }
   
   &::after {
-    transform: translateY(0) rotate(-45deg) !important;
+    transform: translateY(0) rotate(-45deg);
   }
 }

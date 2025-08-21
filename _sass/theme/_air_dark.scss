@@ -5,8 +5,8 @@
 /* Color codes used for the theme */
 $primary-color              : #FFD200;
 $dark-primary-color         : $primary-color;
-$darker-primary-color       : mix(#000, $primary-color, 60%);
-$light-primary-color        : mix(#000, $primary-color, 50%);
+$darker-primary-color       : mix(#000, $primary-color, 40%);
+$light-primary-color        : mix(#000, $primary-color, 20%);
 
 $background                 : #252a34;
 $background-light           : mix(#fff, $background, 20%);
@@ -52,4 +52,37 @@ html[data-theme="dark"] {
     --global-text-color                 : #{$text};
     --global-text-color-light           : #{$light-primary-color};
     --global-thead-color                : #{$background-lighter};
+}
+
+/* Navicon styles for dark theme */
+.navicon {
+  background-color: $primary-color;
+  
+  &::before,
+  &::after {
+    background-color: $primary-color;
+  }
+  
+  &:hover,
+  &:focus {
+    background-color: $primary-color;
+    
+    &::before,
+    &::after {
+      background-color: $primary-color;
+    }
+  }
+}
+
+/* Close state for navicon */
+.close .navicon {
+  background: transparent;
+  
+  &::before {
+    transform: translateY(0) rotate(45deg);
+  }
+  
+  &::after {
+    transform: translateY(0) rotate(-45deg);
+  }
 }
