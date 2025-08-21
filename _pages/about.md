@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Building Safe Hydrogen Infrastructure through Materials Science."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a doctoral researcher at Ghent University, specializing in the **impact of hydrogen on pipeline steels** to ensure the safety and reliability of hydrogen infrastructure. My work is a collaboration with Fluxys (a Belgian pipeline network operator) and the Soete Laboratory.
+👋 Hi! I'm Jubica, a doctoral researcher at Ghent University, specializing in the **impact of hydrogen on pipeline steels** to ensure the safety and reliability of hydrogen infrastructure. My work is a collaboration with Fluxys (a Belgian pipeline network operator) and the Soete Laboratory.
 
 Research Focus and Key Themes
 ======
@@ -38,5 +38,5 @@ In my work, I was the primary contributor responsible for the investigation, met
 Funding and Acknowledgements
 ======
 
-This research received financial support from the Energy Transition Fund via the HyFit and HySource projects in collaboration with Fluxys. The research was also supported by FWO.
+This research has received financial support from the [Energy Transition Fund](https://economie.fgov.be/fr/themes/energie/transition-energetique/fonds-de-transition) via the [HyFit](https://www.fluxys.com/en/about-us/energy-transition/pioneering-research-to-accelerate-the-energy-transition) and [HySource](https://www.fluxys.com/en/about-us/energy-transition/pioneering-research-to-accelerate-the-energy-transition) projects in collaboration with [Fluxys](https://www.fluxys.com/). The research is also supported by [FWO](https://www.fwo.be/en/).
 
