@@ -32,6 +32,9 @@ My expertise covers a range of advanced methods for materials and hydrogen chara
 Academic Contributions and Recognition
 ======
 
+![EGATEC Young Researchers' Awards 2024 Finalist]({{ '/images/finalists-768x481.png' | relative_url }})
+*Finalist at EGATEC Young Researchers' Awards 2024*
+
 Beyond my core research, I have guided one Master’s thesis and several Bachelor’s thesis students. I have also assisted and collaborated with fellow PhD researchers and disseminated my findings through conferences and seminars to both industry and academia. My work was recognized as a finalist for the [**EGATEC Young Researchers’ Awards 2024**](https://www.gerg.eu/the-2024-young-researchers-awards/) and selected as one of 27 outstanding papers for presentation at the [**Energy Pipeline Innovation Conference (EPIC25)**](https://epic25.eu/en/EPIC25).
 
 Detailed Contributions
