@@ -54,7 +54,6 @@ author:
   # Social media
   artstation       : # Username
   bluesky          : # Username
-  facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
@@ -70,7 +69,6 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
@@ -240,7 +238,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comments: false
       read_time: true
       related: false
@@ -263,7 +261,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
       comments: true
   # _publications
   - scope:
@@ -272,7 +269,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
       comments: true
   # _portfolio
   - scope:
@@ -281,7 +277,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
       comment: true
   # _talks
   - scope:
@@ -290,7 +285,6 @@ defaults:
     values:
       layout: talk
       author_profile: true
-      share: true
 
 
 # Sass/SCSS
