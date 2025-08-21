@@ -4,9 +4,8 @@
 
 /* Color codes used for the theme */
 $primary-color              : #FFD200;
-$dark-primary-color         : $primary-color;
-$darker-primary-color       : mix(#000, $primary-color, 80%);
-$light-primary-color        : $primary-color;
+$dark-primary-color         : mix(#000, $primary-color, 40%);$darker-primary-color       : mix(#000, $primary-color, 80%);
+$light-primary-color        : mix(#000, $primary-color, 50%);
 
 $background                 : #252a34;
 $background-light           : mix(#fff, $background, 20%);
@@ -31,13 +30,13 @@ $global-transition          : all 0.2s ease-in-out;
 $masthead-height            : 70px;
 $navicon-width              : 28px;
 $navicon-height             : 4px;
+$navicon-color              : $primary-color;
 $sidebar-link-max-width     : 250px;
 $sidebar-screen-min-width   : 1024px;
 
 /* Dark theme for the site */
 html[data-theme="dark"] {
     --global-base-color                 : #{$background};
-    --global-masthead-color             : #{$darker-primary-color};
     --global-bg-color                   : #{$background};
     --global-footer-bg-color            : #{$footer};
     --global-border-color               : #{$light-primary-color};
