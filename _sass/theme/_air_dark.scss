@@ -4,8 +4,8 @@
 
 /* Color codes used for the theme */
 $primary-color              : #FFD200;
-$dark-primary-color         : mix(#000, $primary-color, 40%);$darker-primary-color       : mix(#000, $primary-color, 80%);
-$light-primary-color        : mix(#000, $primary-color, 50%);
+$dark-primary-color         : mix(#000, $primary-color, 20%);$darker-primary-color       : mix(#000, $primary-color, 40%);
+$light-primary-color        : mix(#000, $primary-color, 30%);
 
 $background                 : #252a34;
 $background-light           : mix(#fff, $background, 20%);
@@ -38,7 +38,7 @@ $sidebar-screen-min-width   : 1024px;
 html[data-theme="dark"] {
     --global-base-color                 : #{$background};
     --global-bg-color                   : #{$background};
-    --global-footer-bg-color            : #{$footer};
+    --global-footer-bg-color            : #{$primary-color};
     --global-border-color               : #{$light-primary-color};
     --global-dark-border-color          : #{$background-light};
     --global-code-background-color      : #fafafa;
