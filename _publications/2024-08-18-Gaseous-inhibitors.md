@@ -1,7 +1,7 @@
 ---
 title: "Gaseous inhibitors: A comprehensive overview on mitigating hydrogen embrittlement in pipeline steels"
 collection: publications
-category: journal
+category: manuscripts
 permalink: /publication/2024-08-18-gaseous-inhibitors
 excerpt: 'This work provides a comprehensive overview on mitigating hydrogen embrittlement in pipeline steels using gaseous additives. Gaseous inhibitors decelerate hydrogen adsorption kinetics and reduce hydrogen-accelerated crack growth by competing for surface adsorption. The effectiveness is influenced by the mechanical test type, H2 pressure, and inhibitor concentration.'
 date: 2024-08-18
