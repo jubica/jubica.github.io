@@ -350,5 +350,48 @@ zh-HK: &DEFAULT_ZH_HK
 zh-TW:
   <<: *DEFAULT_ZH_HK
 
-# Another locale
+# Dutch
 # --------------
+nl: &DEFAULT_NL
+  page                       : "Pagina"
+  pagination_previous        : "Vorige"
+  pagination_next            : "Volgende"
+  breadcrumb_home_label      : "Home"
+  breadcrumb_separator       : "/"
+  toc_label                  : "Op deze pagina"
+  ext_link_label             : "Directe link"
+  less_than                  : "minder dan"
+  minute_read                : "minuut leestijd"
+  share_on_label             : "Delen op"
+  meta_label                 :
+  tags_label                 : "Labels:"
+  categories_label           : "Categorieën:"
+  date_label                 : "Gepubliceerd:"
+  comments_label             : "Laat een reactie achter"
+  comments_title             : "Reacties"
+  more_label                 : "Meer informatie"
+  related_label              : "Misschien vind je dit ook leuk"
+  follow_label               : "Volg:"
+  feed_label                 : "Feed"
+  powered_by                 : "Aangedreven door"
+  website_label              : "Website"
+  email_label                : "E-mail"
+  recent_posts               : "Recente berichten"
+  undefined_wpm              : "Ongedefinieerde parameter words_per_minute in _config.yml"
+  comment_form_info          : "Je e-mailadres wordt niet gepubliceerd. Verplichte velden zijn gemarkeerd"
+  comment_form_comment_label : "Reactie"
+  comment_form_md_info       : "Markdown wordt ondersteund."
+  comment_form_name_label    : "Naam"
+  comment_form_email_label   : "E-mailadres"
+  comment_form_website_label : "Website (optioneel)"
+  comment_btn_submit         : "Reactie plaatsen"
+  comment_btn_submitted      : "Verzonden"
+  comment_success_msg        : "Bedankt voor je reactie! Deze wordt zichtbaar nadat deze is goedgekeurd."
+  comment_error_msg          : "Er is een fout opgetreden bij het verzenden. Controleer of alle verplichte velden zijn ingevuld en probeer het opnieuw."
+  loading_label              : "Laden..."
+
+nl-NL:
+  <<: *DEFAULT_NL
+
+nl-BE:
+  <<: *DEFAULT_NL
