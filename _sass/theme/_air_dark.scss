@@ -4,7 +4,7 @@
 
 /* Color codes used for the theme */
 $primary-color              : #FFD200;
-$dark-primary-color         : mix(#000, $primary-color, 40%);
+$dark-primary-color         : $primary-color;
 $darker-primary-color       : mix(#000, $primary-color, 60%);
 $light-primary-color        : mix(#000, $primary-color, 50%);
 
@@ -12,7 +12,7 @@ $background                 : #252a34;
 $background-light           : mix(#fff, $background, 20%);
 $background-lighter         : mix(#fff, $background, 90%);
 $text                       : #eaeaea;
-$link                       : #1E64C8;
+$link                       : #8bbee8;
 $link-dark                  : mix(#000, $link, 25%);
 $link-light                 : mix(#8bbee8, $link, 25%);
 $footer                     : $primary-color;
