@@ -233,17 +233,6 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: ""
@@ -251,6 +240,22 @@ defaults:
     values:
       layout: single
       author_profile: true
+      share: true
+      comments: false
+      read_time: true
+      related: false
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: false
+      read_time: true
+      related: false
+      published: false  # This will hide all posts
   # _teaching
   - scope:
       path: ""
