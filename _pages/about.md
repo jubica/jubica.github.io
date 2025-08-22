@@ -19,11 +19,13 @@ redirect_from:
 Research Focus and Key Themes
 ======
 
-{: .text-justify}
-My doctoral research investigates the impact of hydrogen on pipeline steels, with the goal of supporting material selection for safe hydrogen service. A key focus has been to establish a **screening methodology** by identifying critical material parameters that influence hydrogen sensitivity.
-
-{: .text-justify}
-I have also worked on developing a **gaseous charging method** using autoclaves, focusing on the experimental parameters required for hydrogen uptake under static conditions. This work involved exploring the role of oxygen as a gaseous inhibitor to limit hydrogen absorption, with a focus on concentrations, temperatures, and pressures closer to real-world applications. Additionally, I studied the effects of **cathodic overprotection** that pipeline steels encounter in operational environments by investigating different charging current densities and analyzing cross-sections of various pipeline steel base materials. I also developed the **hydrogen microprint technique** in-house to study the preferential hydrogen sites in steels.
+* My doctoral research investigates the impact of hydrogen on pipeline steels to support material selection for safe hydrogen service.
+* A key focus has been to establish a **screening methodology** by identifying critical material parameters that influence hydrogen sensitivity.
+* I have developed a **gaseous charging method** using autoclaves to study hydrogen uptake under static conditions.
+* I have also explored the role of oxygen as a gaseous inhibitor to limit hydrogen absorption, with a focus on concentrations, temperatures, and pressures closer to real-world applications.
+* I have studied the effects of **cathodic overprotection** on pipeline steels by investigating different charging current densities.
+* I have analyzed cross-sections of various pipeline steel base materials.
+* I have developed the **hydrogen microprint technique** in-house to study the preferential hydrogen sites in steels.
 
 Technical Expertise and Methods
 ======
@@ -46,11 +48,9 @@ Beyond my core research, I have guided one Master’s thesis and several Bachelo
 
 Detailed Contributions
 ======
-{: .text-justify}
 In my work, I was the primary contributor responsible for the investigation, methodology, validation, and visualization. I was also responsible for writing the original draft of the manuscript.
 
 Funding and Acknowledgements
 ======
-{: .text-justify}
 This research has received financial support from the [Energy Transition Fund](https://economie.fgov.be/fr/themes/energie/transition-energetique/fonds-de-transition) via the [HyFit](https://www.fluxys.com/en/about-us/energy-transition/pioneering-research-to-accelerate-the-energy-transition) and [HySource](https://www.fluxys.com/en/about-us/energy-transition/pioneering-research-to-accelerate-the-energy-transition) projects in collaboration with [Fluxys](https://www.fluxys.com/). The research is also supported by [FWO](https://www.fwo.be/en/).
 

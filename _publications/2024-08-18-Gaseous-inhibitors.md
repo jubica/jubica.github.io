@@ -58,7 +58,7 @@ Hydrogen transport in pipelines is critical for renewable energy transition, but
 - More experimental research is needed across conditions (temperature, pressure, gas mix).
 
 ## Funding
-The research was supported by the Energy Transition Fund via the HyFit and HySource projects in collaboration with Fluxys. The work also received support from FWO (junior postdoctoral fellowship of the Research Foundation - Flanders via grant **1248122N**).
+The research was supported by the  [Energy Transition Fund](https://economie.fgov.be/fr/themes/energie/transition-energetique/fonds-de-transition) via the [HyFit](https://www.fluxys.com/en/about-us/energy-transition/pioneering-research-to-accelerate-the-energy-transition) and  [HySource](https://www.fluxys.com/en/about-us/energy-transition/pioneering-research-to-accelerate-the-energy-transition) projects in collaboration with [Fluxys](https://www.fluxys.com/). The work also received support from [FWO](https://www.fwo.be/en/) (junior postdoctoral fellowship of the Research Foundation - Flanders via grant **1248122N**).
 
 ## Key Responsibilities as First Author
 ### Literature Review & Knowledge Integration
