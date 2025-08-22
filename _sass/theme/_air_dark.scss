@@ -22,7 +22,7 @@ $theme-icon                 : #{$primary-color};
 
 /* Theme toggle icon styles */
 #theme-icon {
-    color: $background-light !important;
+    color: $primary-color !important;
     transition: color 0.2s ease-in-out;
     
     &:hover {
