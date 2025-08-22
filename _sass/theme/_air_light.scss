@@ -20,11 +20,11 @@ $footer                     : $primary-color;
 
 /* Theme toggle icon styles */
 #theme-icon {
-  color: $primary-color !important;
+  color: $secondary-color !important;
   transition: color 0.2s ease-in-out;
   
   &:hover {
-    color: $secondary-color !important;
+    color: $primary-color !important;
   }
 }
 
