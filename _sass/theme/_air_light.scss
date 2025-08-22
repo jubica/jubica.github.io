@@ -18,13 +18,13 @@ $link-dark                  : mix(#000, $link, 25%);
 $link-light                 : mix(#8bbee8, $link, 25%);
 $footer                     : $primary-color;
 
-/* Theme toggle icon styles */
+/* Theme toggle icon styles fa-moon and fa-sun*/
 #theme-icon {
-  color: $primary-color !important;
+  color: #1E64C8 !important;
   transition: color 0.2s ease-in-out;
   
   &:hover {
-    color: $secondary-color !important;
+    color: #FFD200 !important;
   }
 }
 
