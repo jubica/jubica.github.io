@@ -17,16 +17,13 @@ $link-dark                  : mix(#000, $link, 25%);
 $link-light                 : mix(#8bbee8, $link, 25%);
 $footer                     : $darker-primary-color;
 
-/* theme-icon */
-$theme-icon                 : #{$primary-color};
-
 /* Theme toggle icon styles */
 #theme-icon {
     color: $primary-color !important;
     transition: color 0.2s ease-in-out;
     
     &:hover {
-      color: $primary-color !important;
+      color: $secondary-color !important;
     }
   }
 
