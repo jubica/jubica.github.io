@@ -56,3 +56,19 @@ $sidebar-screen-min-width   : 1024px;
     --global-footer-text-color-light    : #{$secondary-color};
     --global-thead-color                : #{$background-lighter};
 }
+
+/* Table of contents */
+.toc__menu {
+  a {
+    color: $text;
+    
+    &:hover {
+      color: $link;
+    }
+  }
+  
+  .toc__label {
+    color: #1E64C8;  
+    font-weight: bold;
+  }
+}
