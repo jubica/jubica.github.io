@@ -51,5 +51,5 @@ In my work, I was the primary contributor responsible for the investigation, met
 
 Funding and Acknowledgements
 ======
-This research has received financial support from the [Energy Transition Fund](https://economie.fgov.be/fr/themes/energie/transition-energetique/fonds-de-transition) via the [HyFit](https://www.fluxys.com/en/about-us/energy-transition/pioneering-research-to-accelerate-the-energy-transition) and [HySource](https://www.fluxys.com/en/about-us/energy-transition/pioneering-research-to-accelerate-the-energy-transition) projects in collaboration with [Fluxys](https://www.fluxys.com/). The research is also supported by [FWO](https://www.fwo.be/en/).
+The research has received financial support from the [Energy Transition Fund](https://economie.fgov.be/fr/themes/energie/transition-energetique/fonds-de-transition) via the [HyFit](https://www.fluxys.com/en/about-us/energy-transition/pioneering-research-to-accelerate-the-energy-transition) and [HySource](https://www.fluxys.com/en/about-us/energy-transition/pioneering-research-to-accelerate-the-energy-transition) projects in collaboration with [Fluxys](https://www.fluxys.com/). The research is also supported by [FWO](https://www.fwo.be/en/).
 
