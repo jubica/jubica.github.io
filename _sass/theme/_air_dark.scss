@@ -17,6 +17,9 @@ $link-dark                  : mix(#000, $link, 25%);
 $link-light                 : mix(#8bbee8, $link, 25%);
 $footer                     : $darker-primary-color;
 
+/* theme-icon */
+$theme-icon                 : #{$primary-color};
+
 /* Color codes used for the site */
 $danger-color               : #ee5f5b;
 $info-color                 : #8bbee8;
