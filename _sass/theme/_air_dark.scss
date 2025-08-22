@@ -20,6 +20,16 @@ $footer                     : $darker-primary-color;
 /* theme-icon */
 $theme-icon                 : #{$primary-color};
 
+/* Theme toggle icon styles */
+#theme-icon {
+    color: $background-light !important;
+    transition: color 0.2s ease-in-out;
+    
+    &:hover {
+      color: $primary-color !important;
+    }
+  }
+
 /* Color codes used for the site */
 $danger-color               : #ee5f5b;
 $info-color                 : #8bbee8;
