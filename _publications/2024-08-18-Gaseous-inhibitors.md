@@ -10,7 +10,6 @@ slidesurl: 'https://backoffice.biblio.ugent.be/download/01J5MXW5EQWKE4KHDX3CE64K
 paperurl: 'https://doi.org/10.1016/j.ijhydene.2024.08.018'
 bibtexurl: 'http://jubica.github.io/files/S0360319924031677.bib'
 citation: 'Jubica, L. Claeys, A. Laureys, W. De Waele, J. Schweicher, T. Depover, K. Verbeken, Gaseous inhibitors: A comprehensive overview on mitigating hydrogen embrittlement in pipeline steels, International Journal of Hydrogen Energy 136 (2025) 630-642. doi:10.1016/j.ijhydene.2024.08.018'
-
 ---
 
 Keywords: Gaseous inhibitors; Hydrogen embrittlement; Pipeline steels
