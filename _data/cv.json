@@ -1,16 +1,16 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Jubica",
+    "email": "jubica.jubica@ugent.be",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://jubica.github.io",
+    "summary": "Doctoral researcher specializing in pipeline steel integrity, with expertise in hydrogen-steel interactions, advanced material characterization, and the development of novel experimental methodologies for safe hydrogen infrastructure at Ghent University.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Ghent",
+      "countryCode": "BE",
+      "region": "Flanders"
     },
     "profiles": [
       {
@@ -20,133 +20,141 @@
       },
       {
         "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "username": "0000-0003-2003-7233",
+        "url": "http://orcid.org/0000-0003-2003-7233"
       },
       {
-        "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "network": "LinkedIn",
+        "username": "Jubica",
+        "url": "https://linkedin.com/in/jubica"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "Ghent University",
+      "position": "PhD Researcher - Materials Science",
+      "website": "",
+      "startDate": "2022-05",
+      "endDate": "Present",
+      "summary": "Doctoral researcher specializing in pipeline steel integrity, with expertise in hydrogen-steel interactions and advanced material characterization."
+    },
+    {
+      "company": "Swerim AB",
+      "position": "Master Thesis Researcher",
+      "website": "",
+      "startDate": "2020-02",
+      "endDate": "2020-10",
+      "summary": "Research on Precipitation Thermodynamics and Kinetics in Martensitic Tool Steels"
+    },
+    {
+      "company": "Sandvik Materials Technology",
+      "position": "Summer Technologist",
+      "website": "",
+      "startDate": "2019-06",
+      "endDate": "2019-08",
+      "summary": "Etching Methods Development for Duplex Stainless Steel"
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "KTH Royal Institute of Technology",
+      "area": "Master of Science in Materials Sciences",
+      "studyType": "MSc",
+      "startDate": "2018",
+      "endDate": "2020",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "institution": "Kalinga Institute of Industrial Technology",
+      "area": "Bachelor of Technology in Mechanical Engineering",
+      "studyType": "B.Tech",
+      "startDate": "2013",
+      "endDate": "2017",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
+  "skills": [
+    {
+      "name": "Materials Science",
+      "level": "Advanced",
+      "keywords": [
+        "Hydrogen Embrittlement",
+        "Pipeline Steels",
+        "Material Characterization"
+      ]
+    },
+    {
+      "name": "Technical Skills",
+      "level": "Proficient",
+      "keywords": [
+        "R",
+        "LaTeX/Typst",
+        "Markdown",
+        "Microsoft Office"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Dutch",
+      "fluency": "Basic"
+    },
+    {
+      "language": "Swedish",
+      "fluency": "Basic"
+    },
+    {
+      "language": "Oriya",
+      "fluency": "Native"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Native"
+    },
+    {
+      "language": "Bengali",
+      "fluency": "Native"
+    }
+  ],
   "interests": [],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Gaseous inhibitors: A comprehensive overview on mitigating hydrogen embrittlement in pipeline steels",
+      "publisher": "International Journal of Hydrogen Energy",
+      "releaseDate": "2025",
+      "website": "https://doi.org/10.1016/j.ijhydene.2024.08.018",
+      "summary": "Research on gaseous inhibitors for mitigating hydrogen embrittlement in pipeline steels."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Hydrogen embrittlement in L485 pipeline materials: comparative insights between excavated and stock conditions",
+      "publisher": "ECF24, European Conference on Fracture",
+      "releaseDate": "2024",
+      "website": "http://hdl.handle.net/1854/LU-01J9KDP49YMCQCPEBHM822SVHZ",
+      "summary": "Comparative study of hydrogen embrittlement in different pipeline material conditions."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Microstructural and fractographic investigation of hydrogen embrittlement sensitivity of X70 pipeline steels",
+      "publisher": "3rd Benelux Network Meeting and Workshop on Damage and Fracture Mechanics",
+      "releaseDate": "2023",
+      "website": "http://hdl.handle.net/1854/LU-01H1VNXYGH73TZ5J4G5PGSV37B",
+      "summary": "Investigation of hydrogen embrittlement in X70 pipeline steels through microstructural analysis."
     }
   ],
   "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
+      {
+        "name": "The role of hydrogen on the fracture micro-mechanism of different pipeline steels and their welds",
+        "event": "EPRI Workshop on Hydrogen Embrittlement 2024",
+        "date": "2024",
+        "location": "Oxford, UK",
+        "description": "Presentation on hydrogen's role in fracture mechanisms of pipeline steels."
+      }
   ]
 }
