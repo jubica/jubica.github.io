@@ -1,0 +1,42 @@
+---
+title: "Characterization of Secondary Carbides in Low-Alloyed Martensitic Model Alloy Tool Steels"
+collection: publications
+category: manuscripts
+permalink: /publication/2020-04-03-model-alloy-tool-steels
+date: 2020-04-03
+venue: 'Ghent University, Faculty of Engineering and Architecture'
+paperurl: '/files/MasterthesisReport_ModelAlloyToolSteels_Jubica.pdf'
+urn: 'urn:nbn:se:kth:diva-284449'
+oai: 'oai:DiVA.org:kth-284449'
+diva: 'diva2:1478745'
+---
+
+Keywords: Martensitic steel; Secondary hardening; Precipitation; STEM; EDS; Prisma; Size distribution
+
+## Overview
+This master's thesis investigates the microstructural evolution of secondary carbides in low-alloyed martensitic model alloy tool steels. The study focuses on understanding how different alloying elements and heat treatments influence the final properties of tool steels, which is crucial for optimizing their performance in industrial applications.
+
+## Research Objectives
+- Analyze the effect of alloying elements on phase transformations
+- Characterize microstructural evolution during heat treatment
+- Correlate mechanical properties with microstructural features
+- Develop guidelines for optimizing tool steel compositions
+
+## Methodology
+- Design and preparation of model alloy compositions
+- Heat treatment under controlled conditions
+- Microstructural characterization using SEM, TEM, and XRD
+- Mechanical testing including hardness, tensile, and impact testing
+- Fractography analysis
+
+## Key Findings
+- Identification of optimal alloying element combinations
+- Characterization of carbide formation and distribution
+- Correlation between heat treatment parameters and mechanical properties
+- Development of processing-structure-property relationships
+
+## Conclusions
+This research provides fundamental insights into the design of high-performance tool steels through controlled alloying and heat treatment. The findings contribute to the development of next-generation tool steels with enhanced mechanical properties and service life.
+
+## Acknowledgments
+This work was conducted at the Department of Materials, Textiles and Chemical Engineering at Ghent University, under the supervision of [Supervisor's Name]. The author would like to acknowledge the technical support from the department staff and the use of characterization facilities.
