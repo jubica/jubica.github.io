@@ -26,7 +26,7 @@ Research Focus 🎯 and Key Themes 🔑
 * I have analyzed cross-sections of various pipeline steel base materials.
 * I have developed the **hydrogen microprint technique** in-house to study the preferential hydrogen sites in steels.
 
-Technical Expertise 🔧 and Methods
+Technical Expertise and Methods 🔧
 ======
 
 My expertise covers a range of advanced methods for materials and hydrogen characterization:
