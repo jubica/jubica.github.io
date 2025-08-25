@@ -5,7 +5,8 @@ collection: publications
 category: conferences
 date: 2024-06-23
 paperurl: '/files/EPRI_Hydrogen_Embrittlement_2024.pdf'
-venue: 'Jesus College, Oxford, UK'
+sponsor: 'EPRI'
+venue: 'EPRI Workshop on Hydrogen Embrittlement 2024, Jesus College, Oxford, UK'
 ---
 
 ![EPRI_Hydrogen_Embrittlement_2024]({{ '/files/EPRI_Hydrogen_Embrittlement_2024.png' | relative_url }})
