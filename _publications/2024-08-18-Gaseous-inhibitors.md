@@ -62,25 +62,19 @@ The research was supported by the  [Energy Transition Fund](https://economie.fgo
 
 ## Key Responsibilities as First Author
 ### Literature Review & Knowledge Integration
-{: .text-justify}
 Conducted an extensive review of hydrogen embrittlement mechanisms in pipeline steels, with a particular focus on gaseous inhibitors such as CO, O₂, and NH₃, synthesizing findings across surface science, materials engineering, and fracture mechanics.
 
 ### Research Design & Methodology Development
-{: .text-justify}
 Structured the study framework by combining theoretical models (e.g., Density Functional Theory insights, Sievert’s law) with experimental validation strategies to analyze inhibitor efficiency under varying loading, frequency, and pressure conditions.
 
 ### Data Analysis & Critical Evaluation
-{: .text-justify}
 Interpreted results from mechanical tests (fracture toughness, fatigue crack growth, J–∆a resistance curves) to assess the mitigation performance of different gaseous inhibitors. Identified key influencing factors such as gas concentration, crosshead speed, and hydrogen pressure.
 
 ### Collaboration & Coordination
-{: .text-justify}
 Coordinated with co-authors from Ghent University and Fluxys, integrating contributions across experimental work, computational modeling, and engineering applications. Ensured consistency in data interpretation and technical accuracy.
 
 ### Manuscript Preparation & Scientific Writing
-{: .text-justify}
 Led the drafting of the manuscript, including abstract, introduction, mechanisms, results, and conclusions. Translated complex surface chemistry and materials science findings into clear, comprehensive narratives suitable for publication in the International Journal of Hydrogen Energy.
 
 ### Research Impact & Practical Implications
-{: .text-justify}
 Highlighted techno-economic challenges of inhibitor use in large-scale hydrogen transport. Proposed future research directions involving varied conditions (temperature, hydrogen partial pressure, inhibitor mix) to optimize industrial applications.

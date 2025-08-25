@@ -40,4 +40,4 @@ This master's thesis investigates the microstructural evolution of secondary car
 This research provides fundamental insights into the design of high-performance tool steels through controlled alloying and heat treatment. The findings contribute to the development of next-generation tool steels with enhanced mechanical properties and service life.
 
 ## Acknowledgments
-This work was conducted at the Department of Materials, Textiles and Chemical Engineering at Ghent University, under the supervision of [Supervisor's Name]. The author would like to acknowledge the technical support from the department staff and the use of characterization facilities.
+This research was conducted in collaboration between Swerim AB and KTH Royal Institute of Technology in Stockholm, Sweden. I am deeply grateful to Erik Claesson at Swerim AB for his expert guidance on martensitic steels and characterization techniques, and to Prof. Peter Hedström at KTH for his invaluable supervision. Special thanks to Hans Magnusson for ThermoCalc support, and to my family and friends for their unwavering support throughout this journey.
