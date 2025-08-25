@@ -45,7 +45,7 @@
       "website": "",
       "startDate": "2020-02",
       "endDate": "2020-10",
-      "summary": "Research on Precipitation Thermodynamics and Kinetics in Martensitic Tool Steels"
+      "summary": "Characterization of Secondary Carbides in Low-Alloyed Martensitic Model Alloy Tool Steels"
     },
     {
       "company": "Sandvik Materials Technology",
@@ -67,7 +67,7 @@
       "courses": []
     },
     {
-      "institution": "Kalinga Institute of Industrial Technology",
+      "institution": "Kalinga Institute of Industrial Technology (KIIT)",
       "area": "Bachelor of Technology in Mechanical Engineering",
       "studyType": "B.Tech",
       "startDate": "2013",
@@ -91,6 +91,7 @@
       "level": "Proficient",
       "keywords": [
         "R",
+        "Python",
         "LaTeX/Typst",
         "Markdown",
         "Microsoft Office"
