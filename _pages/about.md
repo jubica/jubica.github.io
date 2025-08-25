@@ -44,10 +44,6 @@ Academic Contributions and Recognition 🎓
 
 Beyond my core research, I have guided one Master’s thesis and several Bachelor’s thesis students. I have also assisted and collaborated with fellow PhD researchers and disseminated my findings through conferences and seminars to both industry and academia. My work was recognized as a finalist for the [**EGATEC Young Researchers’ Awards 2024**](https://www.gerg.eu/the-2024-young-researchers-awards/) and selected as one of 27 outstanding papers for presentation at the [**Energy Pipeline Innovation Conference (EPIC25)**](https://epic25.eu/en/EPIC25).
 
-Detailed Contributions 📝
-======
-In my work, I was the primary contributor responsible for the investigation, methodology, validation, and visualization. I was also responsible for writing the original draft of the manuscript.
-
 Funding 💰 and Acknowledgements 📊
 ======
 The research has received financial support from the [Energy Transition Fund](https://economie.fgov.be/fr/themes/energie/transition-energetique/fonds-de-transition) via the [HyFit](https://www.fluxys.com/en/about-us/energy-transition/pioneering-research-to-accelerate-the-energy-transition) and [HySource](https://www.fluxys.com/en/about-us/energy-transition/pioneering-research-to-accelerate-the-energy-transition) projects in collaboration with [Fluxys](https://www.fluxys.com/). The research is also supported by [FWO](https://www.fwo.be/en/).
