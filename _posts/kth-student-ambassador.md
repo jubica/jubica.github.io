@@ -1,9 +1,14 @@
 ---
 title: "KTH Student Ambassador"
 date: 2020-09-18
-excerpt: ""
-collection: posts
+permalink: /posts/kth-student-ambassador/
+tags:
+  - previous positions
 ---
+
+### Featured Article
+
+![Featured Article](https://www.kth.se/en/studies/master/engineering-materials-science/students/jubica-1.930198)
 
 ## Role and Responsibilities
 
