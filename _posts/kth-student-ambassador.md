@@ -2,7 +2,7 @@
 title: "KTH Student Ambassador"
 date: 2020-09-18
 excerpt: ""
-collection: portfolio
+collection: posts
 ---
 
 ## Role and Responsibilities

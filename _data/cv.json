@@ -86,7 +86,7 @@
       ]
     },
     {
-      "name": "Technical Skills",
+      "name": "Programming Skills",
       "level": "Proficient",
       "keywords": [
         "R",
@@ -123,12 +123,6 @@
       "fluency": "Native"
     }
   ],
-  "interests": [
-    "Hydrogen Embrittlement",
-    "Pipeline Steels",
-    "Material Characterization"
-  ],
-  "references": ["Contact for more details"],
   "publications": [
     {
       "name": "Gaseous inhibitors: A comprehensive overview on mitigating hydrogen embrittlement in pipeline steels",
