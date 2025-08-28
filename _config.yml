@@ -241,7 +241,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: false
+      share: true
       comments: false
       read_time: true
       related: false
