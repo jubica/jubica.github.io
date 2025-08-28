@@ -63,7 +63,7 @@
       "startDate": "2018",
       "endDate": "2020",
       "gpa": null,
-      "courses": []
+      "courses": ["Scientific Methodology", "Mechanical Properties of Materials", "Applied Thermodynamics", "Advanced Process Sciences", "Powder Metallurgy", "Casting", "Corrosion and Surface Protection"]
     },
     {
       "institution": "Kalinga Institute of Industrial Technology (KIIT)",
@@ -71,8 +71,8 @@
       "studyType": "B.Tech",
       "startDate": "2013",
       "endDate": "2017",
-      "gpa": null,
-      "courses": []
+      "gpa": 9.59,
+      "courses": ["Machine Design", "Heat Transfer", "Manufacturing Processes", "Thermodynamics"]
     }
   ],
   "skills": [
@@ -123,8 +123,12 @@
       "fluency": "Native"
     }
   ],
-  "interests": [],
-  "references": [],
+  "interests": [
+    "Hydrogen Embrittlement",
+    "Pipeline Steels",
+    "Material Characterization"
+  ],
+  "references": ["Contact for more details"],
   "publications": [
     {
       "name": "Gaseous inhibitors: A comprehensive overview on mitigating hydrogen embrittlement in pipeline steels",
