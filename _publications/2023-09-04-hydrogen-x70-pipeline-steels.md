@@ -7,9 +7,8 @@ excerpt: 'This work investigates the fractography of hydrogen-charged X70 pipeli
 date: 2023-09-04
 venue: 'EUROCORR 2023, Brussels, Belgium'
 paperurl: '/files/Eurocorr2023_Fractography_Hydrogen_X70_Jubica.pdf'
-urn: ''
-oai: ''
-diva: ''
+paper2url: 'http://hdl.handle.net/1854/LU-01HCYCJW00E2GXDD687GH6M0JR'
+bibtexurl: 'http://jubica.github.io/files/2023-09-04-hydrogen-x70-pipeline-steels.bib'
 ---
 
 Keywords: Hydrogen embrittlement; Pipeline steels; Fractography; Welds; Quasi-static tension; Microstructure

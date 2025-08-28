@@ -9,12 +9,5 @@ main:
   - title: "CV"
     url: /cv-json/
 
-  - title: "Portfolio"
-    url: /portfolio/
-
-  # - title: "Talks"
-  #   url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
+  - title: "Posts"
+    url: /posts/  
