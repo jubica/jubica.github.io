@@ -78,12 +78,12 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  presentations:
-    title: 'Presentations'
-  conferences:
-    title: 'Conference Papers'
   manuscripts:
     title: 'Journal Articles'
+  conferences:
+    title: 'Conference Papers'
+  presentations:
+    title: 'Presentations'
   books:
     title: 'Books'
  
