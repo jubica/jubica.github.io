@@ -1,16 +1,19 @@
 ---
 title: "KTH Student Ambassador"
 date: 2020-09-18
-permalink: /posts/kth-student-ambassador/
+permalink: /posts/2020/09/kth-student-ambassador/
 tags:
   - previous positions
+  - category1
 ---
 
-### Featured Article
+Featured Article
+======
 
 ![Featured Article](https://www.kth.se/en/studies/master/engineering-materials-science/students/jubica-1.930198)
 
-## Role and Responsibilities
+Role and Responsibilities
+======
 
 As a KTH Student Ambassador, I represented KTH Royal Institute of Technology at various academic and professional events. My primary responsibilities included:
 
@@ -20,7 +23,8 @@ As a KTH Student Ambassador, I represented KTH Royal Institute of Technology at 
 - Participating in networking events with industry professionals
 - Contributing to the international student community at KTH
 
-## Impact and Achievements
+Impact and Achievements
+======
 
 During my time as an ambassador, I had the opportunity to:
 
@@ -29,7 +33,8 @@ During my time as an ambassador, I had the opportunity to:
 - Share my personal academic journey and experiences to inspire future students
 - Build a strong network with fellow ambassadors and university staff
 
-## Skills Developed
+Skills Developed
+======
 
 This role helped me develop valuable skills in:
 - Public speaking and presentation
@@ -38,5 +43,7 @@ This role helped me develop valuable skills in:
 - Professional networking
 - Leadership and teamwork
 
-## Duration
+Duration
+======
+
 September 2019 - October 2020
