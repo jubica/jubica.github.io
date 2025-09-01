@@ -3,8 +3,7 @@ title: "KTH Student Ambassador"
 date: 2020-09-18
 permalink: /posts/2020/09/kth-student-ambassador/
 tags:
-  - previous positions
-  - category1
+  - portfolio
 ---
 
 Featured Article
