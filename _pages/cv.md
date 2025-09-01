@@ -13,7 +13,6 @@ redirect_from:
 Doctoral researcher specializing in pipeline steel integrity, with expertise in hydrogen-steel interactions, advanced material characterization, and the development of novel experimental methodologies for safe hydrogen infrastructure at Ghent University.
 
 ## Education
-======
 * **MSc in Materials Science**  
   KTH Royal Institute of Technology, 2018 - 2020  
   Key Courses: Scientific Methodology, Mechanical Properties of Materials, Applied Thermodynamics, Advanced Process Sciences, Powder Metallurgy, Casting, Corrosion and Surface Protection
@@ -24,7 +23,6 @@ Doctoral researcher specializing in pipeline steel integrity, with expertise in 
   Key Courses: Machine Design, Heat Transfer, Manufacturing Processes, Thermodynamics
 
 ## Work Experience
-======
 * **PhD Researcher - Materials Science**  
   Ghent University, May 2022 - Present  
   Doctoral researcher specializing in pipeline steel integrity, with expertise in hydrogen-steel interactions and advanced material characterization.
@@ -38,7 +36,6 @@ Doctoral researcher specializing in pipeline steel integrity, with expertise in 
   Etching Methods Development for Duplex Stainless Steel
   
 ## Skills
-======
 * **Materials Science (Advanced)**  
   Hydrogen Embrittlement • Pipeline Steels • Material Characterization
 
@@ -46,7 +43,6 @@ Doctoral researcher specializing in pipeline steel integrity, with expertise in 
   R • Python (Numpy, Pandas, Plotly, Scipy) • LaTeX/Typst • Markdown • Microsoft Office
 
 ## Languages
-======
 * **English**: Fluent
 * **Dutch**: Basic
 * **Swedish**: Basic
@@ -55,7 +51,6 @@ Doctoral researcher specializing in pipeline steel integrity, with expertise in 
 * **Bengali**: Native
 
 ## Publications
-======
 * **Gaseous inhibitors: A comprehensive overview on mitigating hydrogen embrittlement in pipeline steels**  
   *International Journal of Hydrogen Energy*, 2025  
   [DOI/Link](https://doi.org/10.1016/j.ijhydene.2024.08.018)  
@@ -72,20 +67,17 @@ Doctoral researcher specializing in pipeline steel integrity, with expertise in 
   Investigation of hydrogen embrittlement in X70 pipeline steels through microstructural analysis.
 
 ## Presentations
-======
 * **The role of hydrogen on the fracture micro-mechanism of different pipeline steels and their welds**  
   *EPRI Workshop on Hydrogen Embrittlement 2024*, 2024  
   Oxford, UK  
   Presentation on hydrogen's role in fracture mechanisms of pipeline steels.
 
 ## Contact
-======
 * **Email**: jubica.jubica@ugent.be
 * **Website**: [https://jubica.github.io](https://jubica.github.io)
 * **Location**: Ghent, Flanders, BE
 
 ## Profiles
-======
 * [Google Scholar](https://scholar.google.com/citations?user=PS_CX0AAAAAJ)
 * [ORCID](http://orcid.org/0000-0003-2003-7233)
 * [LinkedIn](https://linkedin.com/in/jubica)
