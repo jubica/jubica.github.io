@@ -280,7 +280,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-      comment: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
   # # _talks
   # - scope:
   #     path: ""
