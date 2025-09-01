@@ -43,7 +43,7 @@ Doctoral researcher specializing in pipeline steel integrity, with expertise in 
   Hydrogen Embrittlement • Pipeline Steels • Material Characterization
 
 * **Programming Skills (Proficient)**  
-  R • Python • LaTeX/Typst • Markdown • Microsoft Office
+  R • Python (Numpy, Pandas, Plotly, Scipy) • LaTeX/Typst • Markdown • Microsoft Office
 
 ## Languages
 ======
