@@ -273,10 +273,10 @@ defaults:
       layout: single
       author_profile: true
       comments: true
-  # _portfolio
+  # _posts
   - scope:
       path: ""
-      type: portfolio
+      type: posts
     values:
       layout: single
       author_profile: true
