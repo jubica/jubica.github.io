@@ -31,7 +31,6 @@ Technical Expertise and Methods 🔧
 
 My expertise covers a range of advanced methods for materials and hydrogen characterization:
 
-{: .text-justify}
 * **Microstructural Characterization:** Light Optical Microscopy (LOM), Scanning Electron Microscopy (SEM), Electron Backscatter Diffraction (EBSD), Energy Dispersive X-ray Spectroscopy (EDS), and X-ray Diffraction (XRD). I also integrated Positron Annihilation Spectroscopy (PAS) results from a collaboration with SCK to complement microstructural insights.
 * **Hydrogen Characterization Techniques:** Electrochemical Hydrogen Permeation, Thermal Desorption Spectroscopy (TDS), electrochemical hydrogen charging, gaseous hydrogen charging setups, and the hydrogen microprinting technique.
 * **Data Analysis & Interpretation:** I have quantified hydrogen diffusivity from permeation experiments, identified and characterized hydrogen trapping sites from TDS experiments, and simulated hydrogen uptake under targeted experimental conditions.
