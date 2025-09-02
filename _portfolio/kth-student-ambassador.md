@@ -1,7 +1,7 @@
 ---
 title: "KTH Student Ambassador"
 date: 2020-09-18
-permalink: /posts/2020/09/kth-student-ambassador/
+permalink: /portfolio/kth-student-ambassador/
 tags:
   - portfolio
 ---
@@ -9,11 +9,11 @@ tags:
 Featured Article
 ======
 
-<a href="/posts/2020/09/kth-student-ambassador/">
+<a href="/portfolio/kth-student-ambassador/">
   <img src="https://www.kth.se/polopoly_fs/1.930199.1600718863!/image/Jubica1%20D.jpg" alt="KTH Student Ambassador" width="200" align="left" style="margin-right:15px; border-radius:8px;">
 </a>
 
-**[KTH Student Ambassador](/posts/2020/09/kth-student-ambassador/)**  
+**[KTH Student Ambassador](/portfolio/kth-student-ambassador/)**  
 Jubica is from Rourkela, the steel city of Odisha, India. Her home university is Kalinga Institute of Industrial Technology, Odisha, India. Her hobbies are singing, reading novels, and swimming. 
 
 <br clear="left"/>
