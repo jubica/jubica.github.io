@@ -3,9 +3,7 @@ title: 'KTH Student Ambassador'
 date: 2020-09-18
 permalink: /posts/2020/09/kth-student-ambassador/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - previous positions
 ---
 As a KTH Student Ambassador, I represented KTH Royal Institute of Technology at various academic and professional events.
 
