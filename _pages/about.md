@@ -12,8 +12,98 @@ redirect_from:
 
 ☎️ [Contact Me](https://cal.com/jubica)
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="jubica" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://be.linkedin.com/in/jubica?trk=profile-badge">Visit my LinkedIn profile</a></div>
-<br>
+<div class="linkedin-badge-container" id="linkedin-container">
+  <div class="badge-base LI-profile-badge"
+       data-locale="en_US"
+       data-size="large"
+       data-theme="light"
+       data-type="HORIZONTAL"
+       data-vanity="jubica"
+       data-version="v1">
+    <a class="badge-base__link LI-simple-link"
+       href="https://be.linkedin.com/in/jubica?trk=profile-badge">
+      Visit my LinkedIn profile
+    </a>
+  </div>
+</div>
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+<script>
+  const LINKEDIN_SRC = "https://platform.linkedin.com/badges/js/profile.js";
+
+  function ensureLinkedInScript(callback) {
+    if ((window.LIBadge && typeof window.LIBadge.parse === "function") ||
+        (window.IN && typeof window.IN.parse === "function")) {
+      callback();
+      return;
+    }
+    const s = document.createElement("script");
+    s.src = LINKEDIN_SRC + "?ts=" + Date.now();
+    s.async = true;
+    s.defer = true;
+    s.onload = callback;
+    document.body.appendChild(s);
+  }
+
+  function parseLinkedIn(container) {
+    if (window.LIBadge && typeof window.LIBadge.parse === "function") {
+      window.LIBadge.parse(container);
+    } else if (window.IN && typeof window.IN.parse === "function") {
+      window.IN.parse(container);
+    }
+  }
+
+  function currentThemeIsDark() {
+    return (
+      document.documentElement.getAttribute("data-theme") === "dark" ||
+      window.matchMedia("(prefers-color-scheme: dark)").matches
+    );
+  }
+
+  function renderLinkedInBadge() {
+    const container = document.querySelector(".linkedin-badge-container");
+    if (!container) return;
+
+    const isDark = currentThemeIsDark();
+
+    container.innerHTML = `
+      <div class="badge-base LI-profile-badge"
+           data-locale="en_US"
+           data-size="large"
+           data-theme="${isDark ? "light" : "dark"}"
+           data-type="HORIZONTAL"
+           data-vanity="jubica"
+           data-version="v1">
+        <a class="badge-base__link LI-simple-link"
+           href="https://be.linkedin.com/in/jubica?trk=profile-badge">
+          Visit my LinkedIn profile
+        </a>
+      </div>
+    `;
+
+    if ((window.LIBadge && typeof window.LIBadge.parse === "function") ||
+        (window.IN && typeof window.IN.parse === "function")) {
+      parseLinkedIn(container);
+    } else {
+      ensureLinkedInScript(() => parseLinkedIn(container));
+    }
+  }
+
+  // Initial render
+  document.addEventListener("DOMContentLoaded", renderLinkedInBadge);
+
+  // Hook into your theme toggle button
+  const toggleBtn = document.querySelector("#theme-toggle");
+  if (toggleBtn) {
+    toggleBtn.addEventListener("click", () => {
+      // ⚡ DO NOT touch data-theme here!
+      // Your existing theme toggle code already changes it.
+
+      // Just refresh the LinkedIn badge
+      renderLinkedInBadge();
+    });
+  }
+</script>
 
 ⚠️ Using a smartphone 📱? Tap the menu in the top right to see more of my work.
 {: .notice}
