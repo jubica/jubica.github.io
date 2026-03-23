@@ -1,0 +1,3 @@
+## 2025-02-14 - Missing ARIA Labels on Icon-only Buttons
+**Learning:** Found a recurring accessibility issue in `_includes/masthead.html` where icon-only buttons (like the mobile menu navicon and the theme toggle) lack proper ARIA labels. The theme toggle mistakenly uses `aria-labelledby` pointing to an `aria-hidden` element. This prevents screen readers from understanding the purpose of the buttons.
+**Action:** When implementing icon-only interactive elements, ensure they have a clear `aria-label` or visually hidden text to communicate their function to assistive technologies. Remove `aria-labelledby` referencing `aria-hidden` elements.
