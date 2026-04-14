@@ -1,0 +1,17 @@
+---
+title: "Screening the hydrogen compatibility of pipeline steels and welds"
+collection: publications
+category: conferences
+authors: "Jubica Jubica, Lisa Claeys, Laura De Pue, Julien Schweicher, Wim De Waele, Tom Depover, Kim Verbeken"
+permalink: /publication/2024-06-18-screening-the-hydrogen-compatibility-of-pipeline-steels-and-welds
+excerpt: 'This study aims to develop a fast screening method to evaluate hydrogen embrittlement sensitivity in pipeline steels and their welds for safe hydrogen transport.'
+date: 2024-06-18
+venue: 'European Gas Technology Conference 2024 (EGATEC 2024), Hamburg, Germany'
+paperurl: 'http://hdl.handle.net/1854/LU-01KKBEX673QACGTJ6G30CGVMH8'
+citation: 'J. Jubica et al., "Screening the hydrogen compatibility of pipeline steels and welds," in European Gas Technology Conference 2024, Book of Abstracts, Hamburg, Germany, 2024.'
+---
+
+## Abstract
+Hydrogen is a popular choice among industries and transport sectors to reduce global carbon emissions. Deploying pipelines is key for using hydrogen, serving both transport and storage needs. The proposed hydrogen pipeline grid combines pipes from the current natural gas pipeline network with newly built ones to facilitate the necessary volume of hydrogen transportation. Extensive research indicates that hydrogen embrittlement is a significant concern regarding the integrity of pipeline steels. Atomic hydrogen accumulation during manufacturing or service causes hydrogen embrittlement, reducing ductility, increasing fatigue crack growth of existing cracks, and/or diminishing fracture toughness, potentially leading to unpredictable failures. Assessing fracture toughness and fatigue properties of pipeline steels in high-pressure gaseous hydrogen is time-consuming. It requires adherence to strict safety regulations, making it expensive. Therefore, this study aims to develop a fast screening method to evaluate hydrogen embrittlement sensitivity in pipeline steels and their welds. Thorough microstructural characterization is done using light optical microscopy (LOM), scanning electron microscopy (SEM) with energy dispersive spectroscopy (EDX), and electron backscattered diffraction (EBSD). Hydrogen characterization is conducted by electrochemical hydrogen charging. Hydrogen content, diffusion coefficient, and trapping are measured using hot/melt extraction, electrochemical hydrogen permeation, and thermal desorption spectroscopy (TDS). Ex-situ quasi-static tensile testing is performed on smooth and notched round bars with different notch geometries, both reference and hydrogen charged. Fracture surfaces and cross-sections are analyzed using SEM, EDX, and EBSD to link observed hydrogen signatures with specific microstructural features. A database quantifying microstructural and macrostructural parameters is established. It includes ferrite grain size, pearlite fraction, segregation band thickness, hardness, inclusion fraction, carbon equivalent, material hardness, and embrittlement indices. This database will serve as the foundation for developing a statistical screening model. The model will rank significant parameters based on performance scores and error analysis. This ranking of pipeline materials will inform industries for both current material selection and future development of pipeline steels tailored for hydrogen transport, aiding in informed decision-making.
+
+[Link to publication](http://hdl.handle.net/1854/LU-01KKBEX673QACGTJ6G30CGVMH8)
