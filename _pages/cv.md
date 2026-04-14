@@ -13,7 +13,10 @@ redirect_from:
 Doctoral researcher specializing in pipeline steel integrity, with expertise in hydrogen-steel interactions, advanced material characterization, and the development of novel experimental methodologies for safe hydrogen infrastructure at Ghent University.
 
 ## Education
-* **MSc in Materials Science**  
+* **Doctor of Philosophy (PhD) in Materials Engineering**  
+  Ghent University, 2022 - June 2026 (Anticipated)  
+  
+* **MSc in Materials Science and Engineering**  
   KTH Royal Institute of Technology, 2018 - 2020  
   Key Courses: Scientific Methodology, Mechanical Properties of Materials, Applied Thermodynamics, Advanced Process Sciences, Powder Metallurgy, Casting, Corrosion and Surface Protection
 

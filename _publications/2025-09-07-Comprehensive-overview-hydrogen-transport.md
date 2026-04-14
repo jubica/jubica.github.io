@@ -1,0 +1,20 @@
+---
+title: "A comprehensive overview of hydrogen transport in existing pipelines and mitigation of hydrogen embrittlement by gaseous inhibitors"
+collection: publications
+category: conferences
+authors: "A. Laureys, Jubica, M. Cauwels, L. Claeys, W. De Waele, T. Depover, & K. Verbeken"
+permalink: /publication/2025-09-07-gaseous-inhibitors
+excerpt: 'The transition of existing natural gas infrastructures to transportation and storage of sustainable hydrogen gas is crucial for the global decarbonization of the energy sector. However, hydrogen absorption in pipeline steels can degrade their mechanical properties, necessitating prior confirmation of the fitness-for-service of existing pipelines for pressurized hydrogen transport. This work presents a literature overview on the relevant aspects of hydrogen embrittlement (HE) in pipeline steels and its mitigation through addition of inhibitors. Hydrogen-assisted fatigue crack growth, which occurs under cyclic loading even at low hydrogen partial pressures, is considered to be a significant failure mode in pipeline steels transporting hydrogen gas, leading to potential lifetime reduction. Mechanical, environmental and material variables can all influence the severity of HE. Gaseous additives, such as oxygen or carbon monoxide, have shown potential in mitigating HE by slowing hydrogen adsorption kinetics. However, sustained mitigation requires continuous supply of these inhibitors.'
+date: 2025-09-07
+venue: 'EUROCORR 2025, Abstracts, Stavanger, Norway'
+paperurl: 'http://hdl.handle.net/1854/LU-01KCRF3HEA7YFGC548SWB0FK48'
+citation: 'A. Laureys, Jubica, M. Cauwels, L. Claeys, W. De Waele, T. Depover, & K. Verbeken, “A comprehensive overview of hydrogen transport in existing pipelines and mitigation of hydrogen embrittlement by gaseous inhibitors,” in EUROCORR 2025, Abstracts, Stavanger, Norway, 2025.'
+---
+
+Keywords: Gaseous inhibitors; Hydrogen embrittlement; Pipeline steels
+
+## Abstract
+The transition of existing natural gas infrastructures to transportation and storage of sustainable hydrogen gas is crucial for the global decarbonization of the energy sector. However, hydrogen absorption in pipeline steels can degrade their mechanical properties, necessitating prior confirmation of the fitness-for-service of existing pipelines for pressurized hydrogen transport. This work presents a literature overview on the relevant aspects of hydrogen embrittlement (HE) in pipeline steels and its mitigation through addition of inhibitors. Hydrogen-assisted fatigue crack growth, which occurs under cyclic loading even at low hydrogen partial pressures, is considered to be a significant failure mode in pipeline steels transporting hydrogen gas, leading to potential lifetime reduction. Mechanical, environmental and material variables, i.e. loading rate, load cycle frequency, gas pressure, gas composition, material microstructure and composition, and the presence of welds, can all influence the severity of HE. Gaseous additives, such as oxygen or carbon monoxide, have shown potential in mitigating HE by slowing hydrogen adsorption kinetics. However, sustained mitigation requires continuous supply of these inhibitors. The effectiveness of this approach depends on factors like mechanical test type, hydrogen pressure, and inhibitor concentration. The literature review indicates ample scope for further research in several aspects above.
+
+## Funding
+The research was supported by the  [Energy Transition Fund](https://economie.fgov.be/fr/themes/energie/transition-energetique/fonds-de-transition) via the [HyFit](https://www.fluxys.com/en/about-us/energy-transition/pioneering-research-to-accelerate-the-energy-transition) and  [HySource](https://www.fluxys.com/en/about-us/energy-transition/pioneering-research-to-accelerate-the-energy-transition) projects in collaboration with [Fluxys](https://www.fluxys.com/). The work also received support from [FWO](https://www.fwo.be/en/) (junior postdoctoral fellowship of the Research Foundation - Flanders via grant **1248122N**).

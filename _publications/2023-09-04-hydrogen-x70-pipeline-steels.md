@@ -2,6 +2,7 @@
 title: "Fractography of Hydrogen-Charged X70 Pipeline Steels under Quasi-Static Tension"
 collection: publications
 category: conferences
+authors: "Jubica"
 permalink: /publication/2023-09-04-hydrogen-x70-pipeline-steels
 excerpt: 'This work investigates the fractography of hydrogen-charged X70 pipeline steels under quasi-static tension. It analyzes microstructure, hydrogen content, diffusivity, and fracture modes in base metals and welds. Key features such as dimples, delamination, fisheyes, and quasi-cleavage regions were characterized, providing insights into hydrogen embrittlement mechanisms in pipeline steels.'
 date: 2023-09-04

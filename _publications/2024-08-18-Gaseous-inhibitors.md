@@ -2,6 +2,7 @@
 title: "Gaseous inhibitors: A comprehensive overview on mitigating hydrogen embrittlement in pipeline steels"
 collection: publications
 category: manuscripts
+authors: "Jubica, L. Claeys, A. Laureys, W. De Waele, J. Schweicher, T. Depover, K. Verbeken"
 permalink: /publication/2024-08-18-gaseous-inhibitors
 excerpt: 'This work reviews hydrogen embrittlement risks in pipeline steels during hydrogen transport and explores mitigation using trace inhibitor gases like oxygen and carbon monoxide. It examines surface interactions, showing inhibitors slow hydrogen adsorption but cannot stop equilibrium absorption, requiring continuous supply. The study highlights how factors such as test type, pressure, and inhibitor concentration affect mitigation effectiveness.'
 date: 2024-08-18

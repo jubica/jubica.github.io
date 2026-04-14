@@ -2,6 +2,7 @@
 title: "Characterization of Secondary Carbides in Low-Alloyed Martensitic Model Alloy Tool Steels"
 collection: publications
 category: books
+authors: "Jubica"
 permalink: /publication/2020-04-03-model-alloy-tool-steels
 excerpt: 'This master thesis studies tool steels with iron, carbon, molybdenum, and vanadium to understand carbide effects on hardness. Two alloys were tempered at 550C and 600C, with hardness measured and compared. Alloy A was analyzed with STEM EDS and TC Prisma simulations, showing molybdenum carbides increase strength. Hardness was higher at 550C due to reduced overaging at 600C.'
 date: 2020-04-03

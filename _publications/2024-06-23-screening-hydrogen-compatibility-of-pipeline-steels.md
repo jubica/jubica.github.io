@@ -3,6 +3,7 @@ title: "Screening Hydrogen Compatibility of Pipeline Steels and Welds"
 excerpt: "A poster presentation focusing on a fast, less expensive screening methodology to assess the susceptibility of X70 pipeline steels and their welds to hydrogen embrittlement. This work also investigated the role of gaseous inhibitors in mitigating hydrogen-accelerated crack growth.>"
 collection: publications
 category: presentations
+authors: "Jubica, L. Claeys, L. De Pue, J. Schweicher, W. De Waele, T. Depover, & K. Verbeken"
 date: 2024-06-23
 paperurl: '/files/EPRI_Hydrogen_Embrittlement_2024.pdf'
 sponsor: 'EPRI'
