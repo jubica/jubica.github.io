@@ -27,6 +27,12 @@
   }
 }
 
+.year-heading {
+  color: var(--global-border-color);
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
 .archive__subtitle {
   margin: 1.414em 0 0;
   padding-bottom: 0.5em;
@@ -49,10 +55,10 @@
 }
 
 /* remove border*/
-.page__content {
-
+.page__content,
+.archive {
   .archive__item-title {
-    margin-top: 1em;
+    margin-top: 0 !important;
     border-bottom: none;
   }
 }
