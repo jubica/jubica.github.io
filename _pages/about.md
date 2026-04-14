@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Building Safe Hydrogen Infrastructure through Materials Science."
+title: "Materials Engineer specializing in the structural integrity and durability of metallic alloys."
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +8,11 @@ redirect_from:
 ---
 
 <!-- {: .text-justify} -->
-👋 Hi! I'm Jubica, a doctoral researcher at Ghent University, specializing in the **impact of hydrogen on pipeline steels** to ensure the safety and reliability of hydrogen infrastructure. My work is a collaboration with [Fluxys](https://www.fluxys.com/) (a Belgian pipeline network operator) and the [Soete Laboratory](https://www.ugent.be/ea/emsme/en/research/soete).
+👋 Hi! I'm Jubica, Welcome to my professional portfolio. Here is a brief overview of me:
+
+I am a Materials Engineer dedicated to bridging the gap between lab-scale experiments and industrial reality. By translating complex experimental findings into detailed failure assessments, I provide the technical insights necessary to support safe, and reliable energy infrastructure.
+
+My expertise lies in evaluating material performance under extreme conditions specifically high-pressure and corrosive environments to ensure long-term structural reliability. By integrating advanced microstructural characterization (SEM, EBSD, XRD) with mechanical testing, I deliver the validation necessary for lifecycle assessments, predictive maintenance, and the refinement of industrial design codes and safety standards. I have a proven track record of leading technical projects from initial concept to proven results, ensuring critical infrastructure remains resilient in a changing energy landscape.
 
 ☎️ [Contact Me](https://cal.com/jubica)
 
@@ -30,7 +34,7 @@ redirect_from:
 ⚠️ Using a smartphone 📱? Tap the menu in the top right to see more of my work.
 {: .notice}
 
-Research Focus 🎯 and Key Themes 🔑
+Research contribution from Doctoral work 🎯
 ======
 
 * My doctoral research investigates the impact of hydrogen on pipeline steels to support material selection for safe hydrogen service.
@@ -41,14 +45,18 @@ Research Focus 🎯 and Key Themes 🔑
 * I have analyzed cross-sections of various pipeline steel base materials.
 * I have developed the **hydrogen microprint technique** in-house to study the preferential hydrogen sites in steels.
 
-Technical Expertise and Methods 🔧
+Technical Skills 🔧
 ======
 
-My expertise covers a range of advanced methods for materials and hydrogen characterization:
+My expertise covers a range of advanced methods for materials characterization:
 
-* **Microstructural Characterization:** Light Optical Microscopy (LOM), Scanning Electron Microscopy (SEM), Electron Backscatter Diffraction (EBSD), Energy Dispersive X-ray Spectroscopy (EDS), and X-ray Diffraction (XRD). I also integrated Positron Annihilation Spectroscopy (PAS) results from a collaboration with SCK to complement microstructural insights.
-* **Hydrogen Characterization Techniques:** Electrochemical Hydrogen Permeation, Thermal Desorption Spectroscopy (TDS), electrochemical hydrogen charging, gaseous hydrogen charging setups, and the hydrogen microprinting technique.
-* **Data Analysis & Interpretation:** I have quantified hydrogen diffusivity from permeation experiments, identified and characterized hydrogen trapping sites from TDS experiments, and simulated hydrogen uptake under targeted experimental conditions.
+* **Microstructural Characterization:** Light Optical Microscopy (LOM), Scanning Electron Microscopy (SEM), Electron Backscatter Diffraction (EBSD), Energy Dispersive X-ray Spectroscopy (EDS), X-ray Diffraction (XRD) and Positron Annihilation Spectroscopy (PAS).
+
+My Doctoral research strengthened me with hydrogen characterization techniques:
+* **Hydrogen Characterization:** Electrochemical Hydrogen Permeation, Thermal Desorption Spectroscopy (TDS), electrochemical hydrogen charging, gaseous hydrogen charging setups, and the hydrogen microprinting technique.
+* Experimental data underwent rigorous analysis to interpret the findings and establish their physical implications.
+* **Quantification of microstructure** (size, density and morphology), **hydrogen diffusivity** from permeation experiments, **evaluating hydrogen trapping kinetics**.
+
 
 Academic Contributions and Recognition 🎓
 ======
