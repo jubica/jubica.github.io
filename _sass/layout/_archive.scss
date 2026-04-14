@@ -57,6 +57,14 @@
   }
 }
 
+.archive__item-authors {
+  margin: 0;
+  font-family: $sans-serif;
+  font-size: $type-size-6;
+  color: var(--global-link-color);
+  font-style: italic;
+}
+
 .archive__item-excerpt {
   margin-top: 0;
   font-size: $type-size-6;
