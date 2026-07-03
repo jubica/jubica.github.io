@@ -14,7 +14,7 @@ Doctoral researcher specializing in pipeline steel integrity, with expertise in 
 
 ## Education
 * **Doctor of Philosophy (PhD) in Materials Engineering**  
-  Ghent University, 2022 - June 2026 (Anticipated)  
+  Ghent University, 2022 - June 2026 (Completed)  
   
 * **MSc in Materials Science and Engineering**  
   KTH Royal Institute of Technology, 2018 - 2020  
